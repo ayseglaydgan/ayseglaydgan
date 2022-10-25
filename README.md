@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayseglaydgan
-- 👀 I interested in Embedded Development in past.  
+- 👀 One year experienced in Embedded Development.  
 - 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me a.aydogan2018@gtu.edu.tr Email Me
 

@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ayseglaydgan
+- 👩🏻‍🏫 Life-long Learner.
 - 👀 One year experienced in Embedded Development.  
-- 🌱 I’m currently learning Front-End Development
-- 📫 How to reach me a.aydogan2018@gtu.edu.tr Email Me
+- 🌱 I’m currently focusing Full-Stack Development
+- 💻 Working at FORD OTOSAN as Software Engineer.
+- 📫 How to reach me => a.aydogan2018@gtu.edu.tr 
 
 <!---
 ayseglaydgan/ayseglaydgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

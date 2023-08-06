@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.Net, Vue.js, React, Embedded Software**
 
-- 📫 How to reach me **a.aydogan2018@gtu.edu.tr**
+- 📫 How to reach me **aysegul.99@windowslive.com**
 
 - ⚡ Fun fact **I am totally a nerd.**
 

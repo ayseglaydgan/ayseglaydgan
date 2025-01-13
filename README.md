@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aysegul Aydogan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **.Net Core and React**
+- 🔭 I’m currently working on **.Net Core, SpringBoot and React**
 
 - 🌱 I’m currently learning **FullStack Development**
 
